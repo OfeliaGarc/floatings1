@@ -1,0 +1,18 @@
+div>div { 
+	height: 95px;
+	width: 180px;
+}
+.mayor {
+	width: 800px;
+	border: purple 3px dashed;
+	margin-top: 20px;
+} 
+.menor1 {
+	background-color: orange;
+}
+.menor2 {
+	background-color: green;
+}
+.menor3 {
+	background-color: yellow;
+}
